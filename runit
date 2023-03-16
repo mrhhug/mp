@@ -1,0 +1,1 @@
+g++ -lmp4v2 -Wall -Wformat -I/usr/include/mp4v2/ ./% && ./a.out
